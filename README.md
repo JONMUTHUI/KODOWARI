@@ -1,0 +1,2 @@
+# KODOWARI
+HOSTS
